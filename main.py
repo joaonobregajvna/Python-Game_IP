@@ -12,8 +12,8 @@ altura = 720
 # Altura e largura da tela
 tela = pygame.display.set_mode((largura, altura))
 
-# Nome da tela
-pygame.display.set_caption("Viagem espacial de Calegario")
+# Nome da  tela
+pygame.display.set_caption("A viagem espacial de Calegário")
 
 # Icone da tela
 icone = pygame.image.load("imagens/bruxo.png")
