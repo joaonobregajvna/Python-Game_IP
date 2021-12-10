@@ -6,8 +6,8 @@ from sys import exit
 pygame.init()
 
 # Tamanho da tela
-largura = 640
-altura = 480
+largura = 1024
+altura = 720
 
 # Altura e largura da tela
 tela = pygame.display.set_mode((largura, altura))
