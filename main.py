@@ -7,7 +7,7 @@ pygame.mixer.init()
 pygame.init()
 
 # Música de Fundo
-pygame.mixer.music.set_volume(0.3)
+pygame.mixer.music.set_volume(0.3) 
 # Tocar
 musica_de_fundo = pygame.mixer.music.load('musics/musica_de_fundo.mp3')
 # Não parar de tocar a música
